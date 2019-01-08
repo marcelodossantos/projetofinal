@@ -1,10 +1,13 @@
-@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 body{
-	font-family: 'Luckiest Guy', cursive;
+font-family: 'Source Sans Pro', sans-serif;
 	font-size: 1.5em;
 	background: #F0FFF0;
 
 }
 .navbar{
+	border-radius: 5px;
+}
+.carousel-inner{
 	border-radius: 5px;
 }
